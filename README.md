@@ -5,4 +5,5 @@ Future functionality will include a sleep mode.
 
 # server
 
-In order to use the application, the server program must be launched. It can be found here: link coming soon.
+In order to use the application, the server program must be launched. It can be found here:
+https://github.com/xylo99/state-controller-scripts
